@@ -1,0 +1,3 @@
+[submodule "p3s_planner"]
+	path = p3s_planner
+	url = https://github.com/slayorg/p3s_planner.git
